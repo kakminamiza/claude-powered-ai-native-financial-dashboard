@@ -1,0 +1,14 @@
+{
+    "chat.agent.collapseCompletedResponses": true,
+    "chat.agent.networkFilter": true,
+    "openModel.custom.enabled": true,
+    "openModel.custom.models": [
+
+        {}
+    ],
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "openModel.glm.enabled": true,
+    "opilot.ignoreSslErrors": true
+}
